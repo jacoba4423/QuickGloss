@@ -5,7 +5,7 @@ QuickGloss aims to the process of glossing, and, more broadly, linguistic preser
 
 You can find the frontend of our code in the "templates" and "static" folders, while the backend is within quickGloss.py. The requirements to run this code are listed below:
 
-flask>=3.1.1  
+flask>=3.1.0  
 flask-cors>=4.0.0  
 spacy>=3.7.2  
 scikit-learn>=1.3.2  
